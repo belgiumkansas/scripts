@@ -1,0 +1,357 @@
+S.V. Alexandrov, J. Prankl, M. Zillich, and M. Vincze: "Calibration and correction of vignetting effects with an application to 3D mapping" In: Intelligent Robots and Systems (IROS), 2016 IEEE/RSJ International Conference
+[pdf] [bib]
+M. Alomari, P. Duckworth, N. Bore, M. Hawasly, D.C. Hogg, and A.G. Cohn: "Grounding of Human Environments and Activities for Autonomous Robots" In: International Joint Conference on Artificial Intelligence (IJCAI)
+[pdf] [bib]
+M. Alomari, P. Duckworth, Y. Gatsoulis, D. Hogg and A.G. Cohn: "Unsupervised Natural Language Acquisition and Grounding to Visual Representations for Robotic Systems" In: Proc. IJCAI Cognitum Workshop
+[pdf] [bib]
+M. Alomari, P. Duckworth, D. Hogg and A.G. Cohn: "Learning of Object Properties, Spatial Relations, and Actions for Embodied Agents from Language and Vision" In: Proc. of Interactive Multi-Sensory Object Perception for Embodied Agents (AAAI Spring Symposium)
+[pdf] [bib]
+M. Alomari, P. Duckworth, D. Hogg and A.G. Cohn: "Natural Language Acquisition and Grounding for Embodied Robotic Systems" In: Proc. of Association for the Advancement of Artificial Intelligence (AAAI)
+[pdf] [bib]
+L. Beyer, A. Hermans, and B. Leibe: "DROW: Real-Time Deep Learning based Wheelchair Detection in 2D Range Data" In: IEEE Robotics and Automation Letters (RA-L)
+[pdf] [bib]
+N. Bore, R. Ambruş, P. Jensfelt and J. Folkesson: "Efficient retrieval of arbitrary objects from long-term robot observations" In: Robotics and Autonomous Systems, Vol. 91, 2017
+[pdf] [bib]
+G. Broughton, T. Krajnik, M. Fernandez-Carmona, G. Cielniak and N. Bellotto: "RFID-based Object Localisation with a Mobile Robot to Assist the Elderly with Mild Cognitive Impairments" In: Int. Workshop on Intelligent Environments Supporting Healthcare and Well-being (WISHWell)
+[pdf] [bib]
+C. Coppola, T. KrajnÍk, N. Bellotto, and T. Duckett: "Learning temporal context for activity recognition" In: European Conference on Artificial Intelligence (ECAI)
+[pdf] [bib]
+C. Dondrup and M. Hanheide: "Qualitative Constraints for Human-aware Robot Navigation using Velocity Costmaps" In: IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)
+[pdf] [bib]
+P. Duckworth, M. Alomari, Y. Gatsoulis, D.C. Hogg, and A.G. Cohn: "Unsupervised Activity Recognition using Latent Semantic Analysis on a Mobile Robot" In: Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)
+[pdf] [bib]
+P. Duckworth, M. Alomari, J. Charles, D.C. Hogg, and A.G. Cohn: "Latent Dirichlet Allocation for Unsupervised Activity Analysis on an Autonomous Mobile Robot" In: Proc. of Association for the Advancement of Artificial Intelligence (AAAI)
+[pdf] [bib]
+J. Ekekrantz, N. Bore, R. Ambruş, J. Folkesson and P. Jensfelt: "Towards an adaptive system for lifelong object modelling" In: ICRA Workshop AI for Long-Term Autonomy
+[pdf] [bib]
+T. Fäulhammer, M. Zillich, J. Prankl and M. Vincze: "A Multi-Modal RGB-D Object Recognizer" In: International Conference on Pattern Recognition (ICPR)
+[pdf] [bib]
+M. Hanheide, D. Hebesberger and T. KrajnÍk: "The When, Where, and How: An Adaptive Robotic Info-Terminal for Care Home Residents – A long-term Study" In: Proc ACM/IEEE Int. Conf. on Human-Robot Interaction (HRI)
+[pdf] [bib]
+F. Jovan, J. Wyatt, N. Hawes and T. KrajnÍk: "A Poisson-Spectral Model for Modelling the Spatio-Temporal Patterns in Human Data Observed by a Robot" In: Proc IEEE Conf on Intelligent Robots and Systems
+[pdf] [bib]
+T. KrajnÍk, J. Pulido Fentanes, J. Santos, K. Kusumam and Tom Duckett: "Frequency Map Enhancement: Introducing Dynamics into Static Environment Models" In: ICRA Workshop AI for Long-Term Autonomy
+[pdf] [bib]
+T. KrajnÍk, P. Cristóforis, K. Kusumam, P. Neubert and T. Duckett: "Image features for visual teach-and-repeat navigation in changing environments" In: Robotics and Autonomous Systems
+[pdf] [bib]
+T. KrajnÍk, J. Pulido Fentanes, J. Santos and T. Duckett: "FreMEn: Frequency Map Enhancement for Long-Term Mobile Robot Autonomy in Changing Environments" In: IEEE Transactions on Robotics
+[pdf] [bib]
+T. KrajnÍk, J. Pulido Fentanes, M. Hanheide and T. Duckett: "Persistent Localization and Life-long Mapping in Changing Environments using the Frequency Map Enhancement" In: Proceedings of International Conference on Intelligent Robots and Systems
+[pdf] [bib]
+M. Kulich, T. KrajnÍk, L. Přeučil and T. Duckett: "To Explore or to Exploit? Learning Humans’ Behaviour to Maximize Interactions with Them" In: International Workshop on Modelling and Simulation for Autonomous Systems
+[pdf] [bib]
+P. Lightbody, T. KrajnÍk and M. Hanheide: "A Versatile High-Performance Visual Fiducial Marker Detection System with Scalable Identity Encoding" In: Proceedings of the 31th Annual ACM Symposium on Applied Computing
+[pdf] [bib]
+C. McGreavy, L. Kunze and N. Hawes: "Next Best View Planning for Object Recognition in Mobile Robotics" In: Proc. of th 34st Workshop of the UK Planning & Scheduling Special Interest Group (PlanSIG)
+[pdf] [bib]
+L. Mudrova, B. Lacerda and N. Hawes: "Partial Order Temporal Plan Merging for Mobile Robot Tasks" In: Proc. of the 22nd European Conf. on Artificial Intelligence (ECAI)
+[pdf] [bib]
+T. Pohlen, A. Hermans, M. Mathias and B. Leibe: "Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes" In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR'17)
+[pdf] [bib]
+J. Santos, T. KrajnÍk, J. Pulido Fentanes and T. Duckett: "A 3D Simulation Environment with Real Dynamics: A Tool for Benchmarking Mobile Robot Performance in Long-term Deployments" In: ICRA Workshop AI for Long-Term Autonomy
+[pdf] [bib]
+J. Santos, T. KrajnÍk and T. Duckett: "Spatio-temporal exploration strategies for long-term autonomy of mobile robots" In: Robotics and Autonomous Systems
+[pdf] [bib]
+D. Stutz, A. Hermans and B. Leibe: "Superpixels: An Evaluation of the State-of-the-Art" In: Computer Vision and Image Understanding
+[pdf] [bib]
+M. Velas, T. Fäulhammer, M. Spanel, M. Zillich and M. Vincze: "Improving Multi-view Object Recognition by Detecting Changes in Point Clouds" In: Symposium Series on Computational Intelligence
+[pdf] [bib]
+Z. Wang, P. Jensfelt and J. Folkesson: "Building a human behavior map from local observations" In: IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN) 2016
+[pdf] [bib]
+J. Young, V. Basile, L. Kunze, E. Cabrio and N. Hawes: "Towards Lifelong Object Learning by Integrating Situated Robot Perception and Semantic Web Mining" In: 23rd European Conf. on Artificial Intelligence (ECAI16)
+[pdf] [bib]
+2016
+M. Alomari, P. Duckworth, Y. Gatsoulis, D. Hogg and A.G. Cohn: "Unsupervised object segmentation through change detection in a long term autonomy scenario" In: 16th IEEE-RAS 2016 International Conference on Humanoid Robots (Humanoids)
+[pdf] [bib]
+R. Ambruş, J. Folkesson and P. Jensfelt: "Unsupervised object segmentation through change detection in a long term autonomy scenario" In: 16th IEEE-RAS 2016 International Conference on Humanoid Robots (Humanoids)
+[pdf] [bib]
+D. Hebesberger, T. Körtner, C. Gisinger, J. Pripfl, C. Dondrup: "Lessons Learned from the Deployment of a Long-term Autonomous Robot as Companion in Physical Therapy for Older Adults with Dementia" In: 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI)
+[pdf] [bib]
+A. Tavanai: "Tracking in the Context of Interaction" PhD Thesis, School of Computing, University of Leeds
+[pdf] [bib]
+M. Saska, T. Baca, J. Thomas, J. Chudoba, L. Preucil, T. Krajnik, J. Faigl, G. Loianno, V, Kumar: "System for deployment of groups fo unmanned micro aerial vehicles in GPS-denied environments using onboard visual relative localization" In: Autonomous Robots.
+[pdf] [bib]
+J. M. Snatos, T. Krajnik, J. P. Fentanes, T. Duckett: "Lifelong Information-driven Exploration to Complete and Refine 4D Spatio-Temporal Maps" In: IEEE Robotics and Automation Letters.
+[pdf] [bib]
+M. Nitsche, T. Krajnik, P. Cizek, M. Mejail, T. Duckett: "WhyCon: An Efficent, Marker-based Localization System" In: Proceedings of the Aerial Open Source Robotics Workshop.
+[pdf] [bib]
+T. Mörwald, J. Balzer, M. Vincze: "Modeling connected regions in arbitrary planar point clouds by robust B-spline approximation" In: Robotics and Autonomous Systems.
+[pdf] [bib]
+T. Fäulhammer, R. Ambrus, C. Burbridge, M. Zillich, J. Folkesson, N. Hawes, P. Jensfelt, M. Vincze: "Autonomous Learning of Object Models on a Mobile Robot" In: IEEE Robotics and Automation Letters.
+[pdf] [bib]
+P. Duckworth, Y. Gatsoulis, F. Jovan: "Unsupervised Learning of Qualitative Motion Behaviours by a Mobile Robot" In: Proeceedings of the 15th International Confernece on Autonomous Agents and Multiagent Systems (AAMAS 2015).
+[pdf] [bib]
+M. Alomari, E. Chinellato, Y. Gatsoulis, D. C. Hogg, A. G. Cohn: "Unsupervised Grounding of Textual Descriptions of Object Features and Actions in Video" In: Adaptive Behavior, 2016.
+[pdf] [bib]
+F. Arvin, A. Emre Turgut, T. Krajnik, S. Yue: "Investigation of Cue-based Aggregation in Static and Dynamic Environments with a Mobile Robot Swarm" In: 15th International Conference on Principles of Knowledge Representation and Reasoning, April 25-29, 2016, Cape Town, South Africa.
+[pdf] [bib]
+2015
+D. Hebesberger, T. Körtner, J. Pripfl, C. Gisinger, M. Hanheide: "What do staff in eldercar want a robot for? An assessment of potential tasks and user requirements for a long-term deployment" In: IROS Workshop on "Bridging user needs to deployed applications of service robots" 
+[pdf] [bib]
+M. Hanheide, M. Göbelbecker, G. S. Horn, A. Pronobis, K. Sjöö, A. Aydemir. P. Jensfelt, C. Gretton, R. Dearden, M. Janicek, H. Zender, G.J. Kruijff, N. Haws. J. L. Wyatt:"Robot task planning and explanation in open and uncertain worlds In: Artificial Intelligence 
+[pdf] [bib]
+S. Zhang, M. Sridharan, J. L. Wyatt: "Mixed Logical Inference and Probabilistic Planning for Robots in Unreliable Worlds" In: IEEE Transactions on Robotics 
+[pdf] [bib]
+J. Young, N. Hawes: "Learning by Observation Using Qualitative Spatial Relations" In: Proceedings of the 14th International Conference on Autonomous Agents and Multiagent Systems 
+[pdf] [bib]
+S. Xiao, Z. Wang, J. Folkesson: "Unsupervised Robot Learning to Predict Person Motion" In: Proceedings of the International Conference on Robotics 
+[pdf] [bib]
+Z. Wang, P. Jensfelt, J. Folkesson : "Multi-scale Conditional Transition Map: Modeling Spatial-temporal Dynamics of Human Movements with Local and Long-term Correlations" In: IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) 
+[pdf] [bib]
+A. Tavanai, M. Sridhar, E. Chinellato, A. G. Cohn, D. C. Hogg, : "Joint Tracking and Event Analysis for Carried Object Detection" In: Proceedings of the British Machine Vision Conference 
+[pdf] [bib]
+J. Santos, T. Krajnik, J. P. Fentanes, T. Duckett: "Lifelong Exploration of Dynamic Environments" In: International Conference on Robotics and Automation (ICRA) 
+[pdf] [bib]
+U. Rafi, J. Gall, B. Leibe: "A Semantic Occlusion Model for Human Pose Estimation from a Single Depth Image" In: CVPR'15 ChaLearn Looking at People Workshop 
+[pdf] [bib]
+J. P. Fentanes, B. Lacerda, T. Krajnik, N. Hawes M. Hanheide: "Now or later? Predicting and Maximising Success of Navigation Actions from Long-Term Experience" In: International Conference on Robotics and Automation (ICRA)
+[pdf] [bib]
+A. Aldoma, J. Prankl, A. Svejda, M. Vincze: "Object Modelling with a Handheld RGB-D Camera" In: The 39th Annual Workshop of the Austrian Association for Pattern Recognition (OAGM)
+[pdf] [bib]
+J. Prankl, A. Aldoma, A. Svejda, M. Vincze: "RGB-D Object Modelling for Object Recognition and Tracking" In: IEEE/RSJ International COnference on Intelligent Robots and Systems (IROS)
+[pdf] [bib]
+L. Mudrova, N. Hawes: "Task Scheduling for Mobile Robots Using Interval Algebra" In: 2015 (IEEE) International Conference on Robotics and Automation
+[pdf] [bib]
+L. Mudrova, N. Hawes: "Task Scheduling for Mobile Robots Using Interval Algebra" In: 2015 (IEEE) International Conference on Robotics and Automation
+[pdf] [bib]
+L. Mudrova, B. Lacerda, N. Hawes: "An Integrated Control Framework for Long-Term Autonomy in Mobile Service Robots" In: European Conference on Mobile Robotics (ECMR)
+[pdf] [bib]
+B. Lacerda, D. Parker, N. Hawes: "Nested Value Iteration for Partially Sytisfiable Co-safe LTL Specifications" In: AAAI Fall Symposium on Sequential Decision Making for Intelligent Agents (SDMIA)
+[pdf] [bib]
+B. Lacerda, D. Parker, N. Hawes: "Optimal Policy Generation for Partially Satisfiable Co-Safe LTL Specifications" In: Proceedings of 24th International Joint Conference on Artificial Intelligence (IJCAI)
+[pdf] [bib]
+T. Krajnik, J. P. Fentanes, J. M. Santos. K. Kusumam, T. Duckett: "FreMEn: Frequency Map Enhancement for Long-Term Mobile Robot Autonomy in Changing Environments" In: ICRA Workshop on Visual Localization in Changing Environments
+[pdf] [bib]
+T. Krajnik, F. Arvin, A. Emre Turgut, S. Yue, T. Duckett: "CosΦ: Vision-based Artificial Pheromone System for Robotic Swarms" 
+[pdf] [bib]
+T. Krajnik, M. Kulich, L. Mudrova, R. Ambrus, T. Duckett: "Where's Waldo at time t ? Using Spatio-Temporal Models for Mobile Robot Search" In: International Conference on Robotics and Automation (ICRA), 2015.
+[pdf] [bib]
+T. Krajnik, J. P. Fentanes, J. Santos, T. Duckett: "Frequency Map Enhancement: Introducing Dynamics into Static Envrionment Models" In: ICRA Workshop AI for Long-Term Autonomy, 2015.
+[pdf] [bib]
+T. Krajnik, J. Balzicek, J. M. Santos: "Visual path following using intrinsic images" In: European Conference on Mobile Robotics (ECMR)", 2015.
+[pdf] [bib]
+T. Krajnik, J. M. Santos, T. Duckett: "Life-Long Spatio-Temporal Exploration of Dynamic Environments" In: European Conference on Mobile Robotics (ECMR)", 2015.
+[pdf] [bib]
+T. Krajnik, P. Cristoforis, M. Nitsche, K. Kursumam, T. Duckett: "Image Features and Seasons Revisited" In: European Conference on Mobile Robotics (ECMR)", 2015.
+[pdf] [bib]
+D. Hebesberger, T. Körtner, J. Pripfl, C. Gisinger, M. Hanheide: "What do staff in eldercare want a robot for? An assessment of potential tasks and user requirements for a long-term deployment" In: IROS Workshop on "Bridging user needs to deployed applications of service robots", 2015.
+[pdf] [bib]
+T. Fäulhammer, M. Zilich, M. Vincze: "Multi-View Hypotheses Transfer for Enhanced Object Recognition in Clutter" In: IAPR Conference on Machine Vision Applications (MVA).
+[pdf] [bib]
+T. Fäulhammer, A. Aldoma, M. Zilich, M. Vincze: "Temporal Integration of Feature Correspondences for enhanced Recognition in Cluttered and Dynamic Environments" In: International Conference on Robotics and Automation (ICRA), 2015.
+[pdf] [bib]
+J. Ekekrantz, A. Thippur, J. Folkesson, P. Jensfelt: "P. Primitive Refinement Algorithm for Colored Point Cloud Data" In: European Conference on Mobile Robotics, ECMR, 2015.
+[pdf] [bib]
+C. Dondrup, N. Bellotto, F. Jovan, M. Hanheide: "Real-Time Multisensor People Tracking for Human-Robot Spatial Interaction" In: International Conference on Robotics Automation (ICRA) - Workshop on Machine Learning for Social Robotics, 2015.
+[pdf] [bib]
+N. Bore, P. Jensfelt, J. Folkesson: "Querying 3D Data by Adjacency Graphs" In: Computer Vision Systems, 2015.
+[pdf] [bib]
+N. Bore, P. Jensfelt, J. Folkesson: "Retrieval of Arbitrary 3D Objects from Robot Observations" In: European Conference on Mobile Robots (ECMR), 2015.
+[pdf] [bib]
+L. Beyer, A. Hermans, B. Leibe: "Biternion Nets: Continous Head Pose Regression from Discrete Training Labels" In: German Conference on Pattern Recognition (GCPR15).
+[pdf] [bib]
+F. Arvin, T. Krajnik, A. Emre Turgut, S. Yue: "CosΦ: Artificial Pheromone System for Robotic Swarms Research" In: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+[pdf] [bib]
+R. Ambrus, J. Ekekrantz, J. Folkesson, P. Jensfelt: "Unsupervised learning of spatial-temporal models of objects in a long-term autonomy scenario" In: 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
+[pdf] [bib]
+A. Aldoma, F. Tombari, L. Di Stefano, M. Vincze: "A Global Hypothesis Verification Framework for 3D Object Recognition in Clutter" In: Trans. of Pattern Analysis and Machine Intelligence (PAMI).
+[pdf] [bib]
+A. Aldoma, T. Mörwald, J. Prankl. M. Vincze "Segmentation of Depth Data in Piece-wise Smooth Parametric Surfaces" In: 20th Computer Vision Winter Workshop, Seggau, Austria, February 9-11,2015.
+[pdf] [bib]
+D. Hebesberger, T. Körtner, J. Pripfl, C. Gisinger, and M. Hanheide (2015) "What do staff in eldercare want a robot for? An assessment of potential tasks and user requirements for a long-term deployment." In: IROS Workshop on "Bridging user needs to deployed applications of service robots", 28 September 2015, Hamburg.
+U. Rafi, J. Gall, B. Leibe: "A Semantic Occlusion Model for Human Pose Estimation from a Single Depth Image"
+CVPR 2015, June 7-12, 2015, 
+[pdf] [bib]
+T. Krajnik,F. Arvin, A. Emre Turgut, S. Yue, T. Duckett: "COS: Vision-based Artificial Pheromone System for Robotic Swarms"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+T. Krajnik, J. P. Fentanes, J. M. Santos, K. Kusumam, T. Duckett: "FreMEn: Frequency Map Enhancement for Long-Term Mobile Robot Autonomy in Changing Environments"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+J. Santos, T. Krajnik, J. Pulido Fentanes, T. Duckett: "Lifelong Exploration of Dynamic Environments"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+C. Dondrup, N. Bellotto, F. Jovan, M. Hanheide: "Real-Time Multisensor People Tracking for Human-Robot Spatial Interaction"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+T. Fäulhammer, A. Aldoma, M. Zillich, M. Vicnze: "Temporal Integration of Feature Correspondences For Enhanced Recognition in Cluttered and Dynamic Enviroments"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+L. Mudrova, N. Hawes: "Task Scheduling for Mobile Robots Using Interval Algebra"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+T. Krajnik, M. Kulich, L. Mudrova, R. Ambrus, T. Duckett: "Where's Waldo at time t? Using Spatio-Temporal Models for Mobile Robot Search"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+S. Xiao, Z. Wang, J. Folkesson: "Unsupervised Robot Learning to Predict Person Motion"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+J. Pulido Fentanes, B. Lacerda, T. Krajnik, N. Hawes, M. Hanheide: "Now or Later? Predictin and Maximising Success of Navigation Actions form Long-Term Experience"
+ICRA 2015, May 26-30, 2015, 
+[pdf] [bib]
+T. Fäulhammer, M. Zillich, M. Vincze: "Multi-View Hypotheses Transfer for Enhanced Object Recognition in Clutter"
+MVA 2015, May 18-22, 2015, 
+[pdf] [bib]
+J. Young, N. Hawes: "Learning by Observation Using Qualitative Spatial Relations"
+AAMAS 2015, May 4-8, 2015, 
+[pdf] [bib]
+S. Zhang, M. Sridharan, J. L. Wyatt: "Mixed Logical Inference and Probabilistic Planning for Robots in Unreliable Worlds"
+TRO 2015, 
+[pdf] [bib]
+A. Thippur, C. Burbridge, L. Kunze, M. Alberti, J. Folkesson, P. Jensfelt, N. Hawes: "A Comparison of Qualitative and Metric Spatial Relation Models for Scene Understanding"
+TRO 2015, 
+[pdf] [bib]
+T. Krajnik, M. Nitsche, J. Faigl, P. Vanek, M. Saska, L. Preucil, T. Duckett, M. Mejail: "A Practical Multirobot Localization System"
+Journal of Intelligent & Robotic Systems, December 2014, Volume 76, Issuce 3-4, pp 539-562 
+[pdf] [bib]
+A. Thippur, R. Ambrus, A. Gallart del Burgo, J. Haryadi Ramesh, M. Kumar Jha, M. Bala Siva Sai Akhil, N. Bhavanishankar Shetty, J. Folkesson, P. Jensfelt: "KTH-3D-TOTAL: A 3D Dataset for Discovering Spatial Structures for Long-Term Autonomous Learning"
+ICARCV 2014, December 10-12, 2014, 
+[pdf] [bib]
+Z. Whang, R. Abrus, P. Jensfelt, J. Folkesson: "Modeling motion patterns of dynamic objects by IOHMM"
+IROS 2014, September 14-18, 2014, 
+[pdf] [bib]
+R. Ambrus, N. Bore, J. Fokesson, P. Jensfelt: "Meta-rooms: Building and Maintaining Long Term Spatial Models in a Dynamic World"
+IROS 2014, September 14-18, 2014, 
+[pdf] [bib]
+T. Krajnik, J. P. Fentanes, O. M. Mozos, T. Duckett, J. Ekekrantz, M. Hanheide: "Long-Term Topological Localisation for Service Robots in Dynamic Enviroments using Spectral Maps"
+IROS 2014, September 14-18, 2014, 
+[pdf] [bib]
+B. Lacerda, D. Parker, N. Hawes: "Optimal and Dynamic Planning for Markov Decision Process with Co-Safe LTL Specifications"
+IROS 2014, September 14-18, 2014, 
+[pdf] [bib]
+A. Aldoma, T. Fä,ulhammer, M. Vincze: "On the Automation of "Ground Truth" Annotation for RGB-D Object Instance Recognition Datasets"
+IROS 2014, September 14-18, 2014, 
+[pdf] [bib]
+L. Mudrova, N. Hawes: "Interleaving Planning, Scheduling, and Execution in Mobile Robots"
+Proceedings of the Workshop of the UK Planning and Scheduling Special Intereset Group (PlanSIG), 2014, 
+[pdf] [bib]
+S. Lemaignan, M. Hanheide, M. Karg, H. Khambhaita, L. Kunze, F. Lier, I. Lütkebohle, G. Milliez: "Simulation and HRI Recent Perspectives with the MORSE Simulator"
+LNAI Lecture Notes in Artificial Intelligence, Springer, 2014, 
+[pdf] [bib]
+T. Krajnik, J. Santos, B. Seemann, T. Duckett: "FROctomap: An Efficient Spatio-Temporal Environment Representation"
+TAROS 2014, September 1-3, 2014, 
+[pdf] [bib]
+M. Nitsche, T. Pire, T. Krajnik, M. Kulich, M. Mejail: "FMonte Carlo Localization for teach-and-repeat feature-based navigation"
+TAROS 2014, September 1-3, 2014, 
+[pdf] [bib]
+C. Dondrup, N. Bellotto, M. Hanheide: "Social Distance-Augmented Qualitative Trajectory Calculus for Human-Robot Spatial Interaction"
+RO-MAN 2014, August 25-29, 2014, 
+[pdf] [bib]
+T. Krajnik, J. Pulido Fentanes, G. Cielniak, C. Dondrup, T. Duckett: "Spectral Analysis for Long-Term Robotic Mapping"
+ICRA 2014, May 31 - June 7, 2014, 
+[pdf] [bib]
+A. Hermans, G. Floros, B. Leibe: "Dense 3D Semantic Mapping of Indoor Scenes from RGB-D Images"
+ICRA 2014, May 31 - June 7, 2014, 
+[pdf] [bib]
+L. Kunze, K. Kumar, N. Hawes : "Indirect Object Search based on Qualitative Spatial Relations"
+ICRA 2014, May 31 - June 7, 2014, 
+[pdf] [bib]
+A. Basit, W. S. Qureshi, M. N. Dalley, T. Krajnik: "Joint Localizatiuon of Pursuit Quadcopters and Target Using Monocular Cues"
+Journal of Intelligent and Robotic Systems, Heidelberg, Springer, 2014, 
+[pdf] [bib]
+P. De Cristoforis, M. Nitsche, T. Krajnik, T. Pire, M. Mejail: "Hybrid vision-based navigation for mobile robots in mixed indoor/outdoor environments"
+Pattern Rcognition Letters, 2014, 
+[pdf] [bib]
+M. Saska, V. Vonasek, T. Krajnik, L. Preucil: "Coordination and nagvigation of heterogenous MAV-UGV formations localized by a "haw-eye"-like approach under a model predictive control scheme"
+International Journal of Robotics Research, 2014, 
+[pdf] [bib]
+Z. Wang, P. Jensfelt, J. Folkesson: "Modeling Spatial-Temporal Dynamics of Human Movements for Predicting Future Trajectories"
+AAAI, July 27-31 2014, 
+[pdf] [bib]
+M. Alberti, J. Folkesson, P. Jensfelt: "Relational Approaches for Joint Object Classification and Scene Similarity Measurement in Indoor Enviroments"
+AAAI, July 27-31 2014, 
+[pdf] [bib]
+C. Dondrup, N. Bellotto, M. Hanheide: "A Probabilistic Model of Human-Robot Spatial Interaction Using Qualitative Trajectory Calculus"
+AAAI, July 27-31 2014, 
+[pdf] [bib]
+C. Dondrup, C. Lichtenthäler, M. Hanheide: "Hesitation Signals in Human-Robot Head-on Encounters"
+HRI 2014, March 3-6, 2014, 
+[pdf] [bib]
+L. Kunze, C. Burbridge, N. Hawes: "Bootstraping Probabilistic Models of Qualitative Spatial Relations for Active Visual Object Search"
+AAAI, July 27-31 2014, 
+[pdf] [bib]
+K. S.R. Dubba, M. R. de Oliveria, G. Hyuan Lim, H. Kasaei, L. Seabra Lopes, A. Tome, A. G. Cohn : "Grounding Language in Perception for Scene Conceptualization in Autonomous Robots"
+AAAI Spring Symposium on Qualitative Representations for Robots, 2014, 
+[pdf] [bib]
+C. Dondrup, N. Bellotto, M. Hanheide, K. Eder, U. Leonards: "A Computational Model of Human-Robot Spatial Interactions Based on a Qualitative Trajectory Calculus"
+Robotics Volume4, Issue 1, 63-102, 2014 
+[pdf] [bib]
+E. Clementini, A. G. Cohn: "RCC-9 and CBM"
+Lecture Notes in Computer Science, pp 349-365, Springer International Publishing, 2014, 
+[pdf] [bib]
+M. Alberti, J. Folkesson, P. Jensfelt: "Relational Appraches for Joint Object Classification and Scene Similarity Measurement in Indorr Enviroments"
+AAAI Spring Symposium on Qualitative Represantions for Robots, March 24-26, 2014, 
+[pdf] [bib]
+C. Dondrup, N. Bellotto, M. Hanheide: "A Probabilistic Model of Human-Robot Spatial Interaction Using a Qualitative Trajectory Calculus"
+AAAI Spring Symposium on Qualitative Represantions for Robots, March 24-26, 2014, 
+[pdf] [bib]
+C. Dondrup, C. Lichtenthäler, M. Hanheide: "Hesitation Signals in Human-Robot Head-on Encounters"
+Proceedings of the 2014 ACM/IEEE International Conference on Human-robot Interaction, March 3-6, 2014, Bielefeld, Germany 
+[pdf] [bib]
+K. S.R. Dubba, M. R. de Oliveira, G. Hyun Lim, H. Kasaei, L. Seabra Lopes, A. Tome, A. g. Cohn: "Grounding Language in Perception for Scene Conceptualization in Autonomous Robots"
+AAAI Spring Symposium on Qualitative Representations for Robots, March 24-26, 2014, Palo Alto, Aclifornia 
+[pdf] [bib]
+T. Duckett, M. Hanheide, T. Krajnik, J. P. Fentanes, C. Dondrup: "Spatio-Temporal Represantation for Cognitive Control in Long-Term Scenarios"
+AAAI Spring Symposium on Qualitative Representations for Robots, 27-28 March 2014, Stirlin, Scotland, UK 
+[pdf] [bib]
+A. Hermans, G. Floros, B. Leibe: "Dense 3D Semantic Mapping of Indoor Scenes from RGB-D Images"
+IEEE International Conference on Robotics and Automation, May 31 - June 7, 2014 Hong Kong, China 
+[pdf] [bib]
+O. Hosseini Jafari, D. Mitzel, B. Leibe: "Real-Time RGB-D based People Detection and Tracking for Mobile Robots and Head Worn Cameras"
+IEEE International Conference on Robotics and Automation, May 31 - June 7, 2014 Hong Kong, China 
+[pdf] [bib]
+T. Krajnik, J. Svab, S. Pedre, L. Preucil: "FPGA-based module for SURF extraction"
+Machine Vision and Applications manuscript 
+[pdf] [bib]
+T. Krajnik, M. Nitsche, J. Faigl, P, Vanek, M. Saska, L. Preucil, T. Duckett, M. Mejail: "A practical multirobot localization system"
+Journal of Intelligent & Robotic Systems 
+[pdf] [bib]
+L. Kunze, C. Burbridge, N. Hawes: "Bootstrapping Probabilistic Models of Qualitative Spatial Relations for Active Visual Object Research"
+AAAI Spring Symposium 2014 on Qualitative Representations for Robots, March 24-26, 2014, Palo Alto, California, US 
+[pdf] [bib]
+J. Young, N. Hawes: "Effects of Training data Variation and Temporal Representation in a QSR-Based Action Prediction System"
+AAAI Spring Symposium 2014 on Qualitative Representations for Robots, March 24-26, 2014, Palo Alto, California, US 
+[pdf] [bib]
+L. Kunze, K. Kumar Doreswamy, N. Hawes: "Using Qualitative Spatial Relations for Indirect Object Search"
+IEEE International Conference on Robotics and Automation, May 31 - June 7, 2014, Hong Kong, China 
+[pdf] [bib]
+L. Kunze, C. Burbridge, M. Alberti, A. Tippur, J. Folkesson, P. Jensfelt, N. Hawes: "Combining Top-down Spatial Reasoning and Bottom-up Object Class Recognition for Scene Understanding"
+IEEE/RSJ International Conference on Intelligent Robots and Systems, September 14-18, 2014, Chicago, Illinois, US 
+[pdf] [bib]
+B. Lacerda, P. U. Lima: "On the Notion of Uncontrollable Marking in Supervisory Control of Petri Nets"
+IEEE Transactions on Automatic Control 
+[pdf] [bib]
+T. Krajnik, J. Svab, S. Pedre, P. Cizek, L. Preucil: "FPGA-based module for SURF extraction"
+Machine Vision and Applications, April 2014, Volume 25, Issue 3, pp 787-800, 2014 
+[pdf] [bib]
+B. Lacerda, P. U. Lima: "On the Notion of Uncontrollable Marking in Supervisory Control of Petri Nets"
+IEEE Transactions and Automatic Control, 2014 
+[pdf] [bib]
+B. Lacerda, D. Parker, N. Hawes: "Optimal Motion Planning for Markov Decision Processes with Co-Safe Linear Temporal Logic Specifications"
+31st Workshop of the UK Planning & Scheduling Special Interest Group, January 29-30, 2014, Edinburgh, Scotland, UK 
+[pdf] [bib]
+2013
+B. Lacerda, D. Parker, N. Hawes: "Optimal Motion Planning for Markov Decision Processes with Co-Safe Linear Temporal Logic Specifications"
+PlanSIG 2013, January 29-30, 2014
+[pdf] [bib]
+K. Lockwood, J. D. Kelleher, M. Klenk, N. Hawes: "The Role of Context in Spatial Region Identification"
+Proceedings of Second Annual Conference on Advances in Cognitive Systems, Decemeber 12-14, 2013
+[pdf] [bib]
+J. Young, N. Hawes: "Predicting Situated Behaviour Using Sequences of Abstract Spatial Relations"
+Proceedings of the AAAI 2013 Fall Symposium How Should Intelligence be Abstracted in AI Research: MDPs, Symbolic Representations, Artificial Neural Networks, November 15-17, 2013, Westin Arlington Gateway in Arlington, Virginia
+[pdf] [bib]
+L. Kunze, N. Hawes: "Indirect Object Search based od Qualitative Spatial Relations"
+IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Workshop on AI-based Robotics, November 3-8, 2013, Tokyo Big Sight, Japan
+[pdf] [bib]
+T. Krajnik, P. Cristoforis, J. Faigl, H. Szücsova, M. Nitsche, L. Preucil, M. Mejail: "Image Feautures for Long-Term Mobile Robot Autonomy"
+ICRA 2013 workshop on Long-Term Autonomy, May 10, 2013, Karlsruhe, Germany 
+[pdf] [bib]
+J. Ekekrantz, A. Pronobis, J. Folkesson and P. Jensfelt: "Adaptive Iterative Closest Keypoint"
+6th European Conference on Mobile Robots, Sep 25-27, 2013, Barcelona, Catalonia, Spain 
+[pdf] [bib]
+T. Krajnik, M. Nitsche, J. Faigl, T. Duckett, M. Mejail, L. Preucil: "External Localization System for Mobile Robotics"
+Proceedings of the International Conference on Advanced Robotics, November 25-29, 2013, Montevideo, Uruguay 
+[pdf] [bib]
+T. Krajnik, S. Pedre, L. Preucil: "Monocular Navigation for Long-Term Autonomy"
+Proceedings of the International Conference on Advanced Robotics, November 25-29, 2013, Montevideo, Uruguay 
+[pdf] [bib]

@@ -1,0 +1,60 @@
+341: An architecture for human-robot collaborative tasks
+259: Robots Approaching to Interact With People
+131: A Fixed-Dimensional Representation for Matching Partial 3D Shapes in Street Scenes
+121: Real-Time RGB-D based People Detection and Tracking for Mobile Robots and Head-Worn Cameras
+66: SPENCER: A Socially Aware Service Robot for Passenger Guidance and Help in Busy Airports
+58: Inverse Reinforcement Learning Algorithms and Features for Robot Navigation in Crowds: An Experimental Comparison
+49: That's on my Mind! Robot to Human Intention Communication through on-board Projection on Shared Floor Space
+43: Where am I? An improved prior for NDT-MCL
+43: Normal Distributions Transform Monte-Carlo Localization (NDT-MCL)
+41: Conditional Transition Maps: Learning Motion Patterns in Dynamic Environments
+41: Classifying Social Actions with a Single Accelerometer
+37: An Efficient Convolutional Network for Human Pose Estimation
+34: On Multi-Modal People Tracking from Mobile Platforms in Very Crowded and Dynamic Environments
+34: 3D Normal Distributions Transform Occupancy Maps: An Efficient Representation for Mapping in Dynamic Environments
+31: POSQ: A Novel RRT Extend Function for Efficient and Smooth Mobile Robot Motion Planning
+30: A Game-Theoretic Probabilistic Approach for Detecting Conversational Groups
+30: Multi-Hypothesis Social Grouping and Tracking for Mobile Robots
+28: A Verifiable and Correct-by-Construction Controller for Robots in Human Environments
+26: Learning Socially Normative Robot Navigation Behaviors using Bayesian Inverse Reinforcement Learning
+26: Localization in highly dynamic environments using dual-timescale NDT-MCL
+26: Evaluating Directional Cost Models in Navigation
+24: Beyond Points: Evaluating Recent 3D Scan-Matching Algorithms
+24: Multi-Model Hypothesis Tracking of Groups of People in RGB-D Data
+23: Distance Metric Learning for RRT-Based Motion Planning with Constant-Time Inference
+20: Robot Gestures Make Difficult Tasks Easier: the Impact of Gestures on Perceived Workload and Task Performance
+20: Group Detection in Still Images by F-formation Modeling: A Comparative Study
+19: Biternion Nets: Continuous Head Pose Regression from Discrete Training Labels
+19: Normal Distributions Transform Occupancy Map Fusion: Simultaneous Mapping and Tracking in Large Scale Dynamic Environments
+18: Optimal Intrinsic Descriptors for Non-Rigid Shape Analysis
+18: Cultural Differences in how an Engagement-Seeking Robot should Approach a Group of People
+16: RRT-Based Nonholonomic Motion Planning Using Any-Angle Path Biasing
+15: People Detection, Tracking and Visualization using ROS on a Mobile Service Robot
+15: A Semantic Occlusion Model for Human Pose Estimation from a Single Depth Image
+14: Dynamics of Social Positioning Patterns in Group-Robot Interactions: An Inductive Method
+14: Detecting Conversing Groups with a Single Worn Accelerometer
+12: Robots Learning How and Where to Approach People
+12:  Beyond F-formations: Determining Social Involvement in Free Standing Conversing Groups from Static Images
+12: Real-Time Full-Body Human Gender Recognition in (RGB)-D Data
+10: The Influence of Approach Speed and Functional Noise on Users Perception of a Robot
+9: Exploring Bounding Box Context for Multi-Object Tracker Fusion
+9: Distance Metric Learning for RRT-Based Motion Planning for Wheeled Mobile Robots
+9: Fast 3D Mapping in Highly Dynamic Environments using Normal Distributions Transform Occupancy Maps
+8: Semi-supervised Online Learning for Efficient Classification of Objects in 3D Data Streams
+8: Towards Group-Level Social Activity Recognition for Mobile Robots
+7: Stream-based Active Learning for Efficient and Adaptive Classification of 3D Objects
+7: Lost in Proxemics: Spatial Behavior for Cross-Cultural HRI
+6: Real-Time Full-Body Human Attribute Classification in RGB-D Using A Tessellation Boosting Approach
+6: An Adaptive and Proactive Human-Aware Robot Guide
+4: Efficient Inverse Reinforcement Learning using Adaptive State Graphs
+4: Active Online Confidence Boosting for Efficient Object Classification
+3: Active Online Learning for Interactive Segmentation Using Sparse Gaussian Processes
+3: Sound over Matter: The Effects of Functional Noise, Robot Size and Approach Velocity in Human-Robot Encounters
+3: Systematic Evaluation of Social Behaviour Modelling with a Single Accelerometer
+2: How a Guide Robot Should Behave at an Airport - Insights Based on Observing Passengers
+2: Efficient and Smooth RRT Motion Planning Using a Novel Extend Function for Wheeled Mobile Robots
+1: Modeling the dynamics of individual behaviors for group detection in crowds using low-level features
+1: Crowdsourcing Culture in HRI: Lessons Learned From Quantitative and Qualitative Data Collections
+1: Robots Guiding Small Groups: The Effect of Appearance Change on the User Experience
+1: Multi-band Hough Forests for Detecting Humans with Reflective Safety Clothing from Mobile Machinery
+1: Short Duration Robot Interaction at an Airport: Challenges from a Socio-Psychological Point of View

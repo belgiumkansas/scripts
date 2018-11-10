@@ -1,0 +1,263 @@
+<ul>
+ 
+
+ <li>
+S.V. Alexandrov, J. Prankl, M. Zillich, and M. Vincze:
+"Calibration and correction of vignetting effects with an application to 3D mapping" 
+In: Intelligent Robots and Systems (IROS), 2016 IEEE/RSJ International Conference<br>
+<a href="publications/y4/alexandrov_iros2016.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/alexandrov_iros2016.bib">[bib]</a>
+ </li>
+ 
+ 
+ <li>
+M. Alomari, P. Duckworth, N. Bore, M. Hawasly, D.C. Hogg, and A.G. Cohn:
+"Grounding of Human Environments and Activities for Autonomous Robots" 
+In: International Joint Conference on Artificial Intelligence (IJCAI)<br>
+<a href="publications/y4/Alomari_Duckworth_IJCAI17.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Alomari_Duckworth_IJCAI17.bib">[bib]</a>
+ </li>
+ 
+ <li>
+M. Alomari, P. Duckworth, Y. Gatsoulis, D. Hogg and A.G. Cohn:
+"Unsupervised Natural Language Acquisition and Grounding to Visual Representations for Robotic Systems" 
+In: Proc. IJCAI Cognitum Workshop<br>
+<a href="publications/y4/Alomari_Cognitum16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Alomari_Cognitum16.bib">[bib]</a>
+ </li>
+ 
+   <li>
+M. Alomari, P. Duckworth, D. Hogg and A.G. Cohn:
+"Learning of Object Properties, Spatial Relations, and Actions for
+Embodied Agents from Language and Vision" 
+In: Proc. of Interactive Multi-Sensory Object Perception for Embodied Agents (AAAI Spring Symposium)<br>
+<a href="publications/y4/Alomari_AAAI17_SpringSymposium.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Alomari_AAAI17_SpringSymposium_BIB.bib">[bib]</a>
+ </li>
+ 
+  <li>
+M. Alomari, P. Duckworth, D. Hogg and A.G. Cohn:
+"Natural Language Acquisition and Grounding for Embodied Robotic Systems" 
+In: Proc. of Association for the Advancement of Artificial Intelligence (AAAI)<br>
+<a href="publications/y4/Alomari_AAAI17.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Alomari_AAAI17_BIB.bib">[bib]</a>
+ </li>
+ 
+ <li>
+L. Beyer, A. Hermans, and B. Leibe:
+"DROW: Real-Time Deep Learning based Wheelchair Detection in 2D Range Data" 
+In: IEEE Robotics and Automation Letters (RA-L)<br>
+<a href="publications/y4/beyer_hermans_RAL.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/beyer_hermans_RAL.bib">[bib]</a>
+ </li>
+ 
+ 
+  <li>
+N. Bore, R. Ambruş, P. Jensfelt and J. Folkesson:
+"Efficient retrieval of arbitrary objects from long-term robot observations" 
+In: Robotics and Autonomous Systems, Vol. 91, 2017<br>
+<a href="publications/y4/bore_RAS16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/bore_RAS16.bib">[bib]</a>
+ </li>
+    
+  <li>
+G. Broughton, T. Krajnik, M. Fernandez-Carmona, G. Cielniak and N. Bellotto:
+"RFID-based Object Localisation with a Mobile Robot to Assist the Elderly with Mild Cognitive Impairments" 
+In: Int. Workshop on Intelligent Environments Supporting Healthcare and Well-being (WISHWell)<br>
+<a href="publications/y4/broughton_wishwell_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/broughton_wishwell_16.bib">[bib]</a>
+ </li>
+ 
+   <li>
+C. Coppola, T. KrajnÍk, N. Bellotto, and T. Duckett:
+"Learning temporal context for activity recognition" 
+In: European Conference on Artificial Intelligence (ECAI)<br>
+<a href="publications/y4/coppola_krajnik_ecai_2016.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/coppola_krajnik_ecai_2016.bib">[bib]</a>
+ </li>
+ 
+ <li>
+C. Dondrup and M. Hanheide:
+"Qualitative Constraints for Human-aware Robot Navigation using Velocity Costmaps" 
+In: IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)<br>
+<a href="publications/y4/dondrup_2016_roman.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/dondrup_2016_roman.bib">[bib]</a>
+ </li>
+ 
+  <li>
+P. Duckworth, M.  Alomari, Y. Gatsoulis, D.C. Hogg, and A.G. Cohn:
+"Unsupervised Activity Recognition using Latent Semantic Analysis on a Mobile Robot" 
+In: Proceedings of the 22nd European Conference on Artificial Intelligence (ECAI 2016)<br>
+<a href="publications/y4/Duckworth_ECAI16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Duckworth_ECAI16_Bib.bib">[bib]</a>
+ </li>
+ 
+  <li>
+P. Duckworth, M.  Alomari, J. Charles, D.C. Hogg, and A.G. Cohn:
+"Latent Dirichlet Allocation for Unsupervised Activity Analysis on an Autonomous Mobile Robot" 
+In: Proc. of Association for the Advancement of Artificial Intelligence (AAAI)<br>
+<a href="publications/y4/Duckworth_AAAI17.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/Duckworth_AAAI17_Bib.bib">[bib]</a>
+ </li>
+ 
+ 
+  <li>
+J. Ekekrantz, N. Bore, R. Ambruş, J. Folkesson and P. Jensfelt:
+"Towards an adaptive system for lifelong object modelling" 
+In: ICRA Workshop AI for Long-Term Autonomy<br>
+<a href="publications/y4/ekekrantz_ICRA_AILTA.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/ekekrantz_ICRA_AILTA.bib">[bib]</a>
+ </li>
+ 
+ <li>
+T. Fäulhammer, M. Zillich, J. Prankl and M. Vincze:
+"A Multi-Modal RGB-D Object Recognizer" 
+In: International Conference on Pattern Recognition (ICPR)<br>
+<a href="publications/y4/faeulhammer_ICPR_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/faeulhammer_ICPR_16.bib">[bib]</a>
+ </li>
+ 
+  
+ <li>
+M. Hanheide, D. Hebesberger and T. KrajnÍk:
+"The When, Where, and How: An Adaptive Robotic Info-Terminal for Care Home Residents – A long-term Study" 
+In: Proc ACM/IEEE Int. Conf. on Human-Robot Interaction (HRI)<br>
+<a href="publications/y4/hanheide_2017_hri.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/hanheide_2017_hri.bib">[bib]</a>
+ </li>
+ 
+   
+ <li>
+F. Jovan, J. Wyatt, N. Hawes and T. KrajnÍk:
+"A Poisson-Spectral Model for Modelling the Spatio-Temporal Patterns in Human Data Observed by a Robot" 
+In: Proc IEEE Conf on Intelligent Robots and Systems<br>
+<a href="publications/y4/jovan_iros_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/jovan_iros_16.bib">[bib]</a>
+ </li>
+ 
+  <li>
+T. KrajnÍk, J. Pulido Fentanes, J. Santos, K. Kusumam and Tom Duckett:
+"Frequency Map Enhancement: Introducing Dynamics into Static Environment Models" 
+In: ICRA Workshop AI for Long-Term Autonomy<br>
+<a href="publications/y4/krajnik_ICRA_AILTA.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/krajnik_ICRA_AILTA.bib">[bib]</a>
+ </li>
+ 
+  <li>
+T. KrajnÍk, P. Cristóforis, K. Kusumam, P. Neubert and T. Duckett:
+"Image features for visual teach-and-repeat navigation in changing environments" 
+In: Robotics and Autonomous Systems<br>
+<a href="publications/y4/krajnik_RAS_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/krajnik_RAS_16.bib">[bib]</a>
+ </li>
+ 
+ <li>
+T. KrajnÍk, J. Pulido Fentanes, J. Santos and T. Duckett:
+"FreMEn: Frequency Map Enhancement for Long-Term Mobile Robot Autonomy in Changing Environments" 
+In: IEEE Transactions on Robotics<br>
+<a href="publications/y4/krajnik_TRO.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/krajnik_TRO.bib">[bib]</a>
+ </li>
+ 
+ <li>
+T. KrajnÍk, J. Pulido Fentanes, M. Hanheide and T. Duckett:
+"Persistent Localization and Life-long Mapping in Changing Environments 
+using the Frequency Map Enhancement" 
+In: Proceedings of International Conference on Intelligent Robots and Systems<br>
+<a href="publications/y4/krajnik_pulido_IROS16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/krajnik_pulido_IROS16.bib">[bib]</a>
+ </li>
+ 
+  <li>
+M. Kulich, T. KrajnÍk, L. Přeučil and T. Duckett:
+"To Explore or to Exploit? Learning Humans’ Behaviour to Maximize Interactions with Them" 
+In: International Workshop on Modelling and Simulation for Autonomous Systems<br>
+<a href="publications/y4/kulich_krajnik_MESAS_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/kulich_krajnik_MESAS_16.bib">[bib]</a>
+ </li>
+ 
+  <li>
+P. Lightbody, T. KrajnÍk and M. Hanheide:
+"A Versatile High-Performance Visual Fiducial Marker Detection System with Scalable Identity Encoding" 
+In: Proceedings of the 31th Annual ACM Symposium on Applied Computing<br>
+<a href="publications/y4/lightbody_sac_2017.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/lightbody_sac_2017.bib">[bib]</a>
+ </li>
+ 
+
+ <li>
+C. McGreavy, L. Kunze and N. Hawes:
+"Next Best View Planning for Object Recognition in Mobile Robotics" 
+In: Proc. of th 34st Workshop of the UK Planning &amp; Scheduling Special Interest Group (PlanSIG)<br>
+<a href="publications/y4/mcgreavy_plansig16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/mcgreavy_plansig16.bib">[bib]</a>
+ </li>
+ 
+  <li>
+L. Mudrova, B. Lacerda and N. Hawes:
+"Partial Order Temporal Plan Merging for Mobile Robot Tasks" 
+In: Proc. of the 22nd European Conf. on Artificial Intelligence (ECAI)<br>
+<a href="publications/y4/mudrova_ecai16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/mudrova_ecai16.bib">[bib]</a>
+ </li>
+ 
+   <li>
+T. Pohlen, A. Hermans, M. Mathias and B. Leibe:
+"Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes" 
+In: IEEE Conference on Computer Vision and Pattern Recognition (CVPR'17)<br>
+<a href="publications/y4/pohlen_CVPR17.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/pohlen_CVPR17.bib">[bib]</a>
+ </li>
+ 
+ <li>
+J. Santos, T. KrajnÍk, J. Pulido Fentanes and T. Duckett:
+"A 3D Simulation Environment with Real Dynamics: A Tool for Benchmarking Mobile 
+Robot Performance in Long-term Deployments" 
+In: ICRA Workshop AI for Long-Term Autonomy<br>
+<a href="publications/y4/santos_ICRA_AILTA.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/santos_ICRA_AILTA.bib">[bib]</a>
+ </li>
+ 
+  <li>
+J. Santos, T. KrajnÍk and T. Duckett:
+"Spatio-temporal exploration strategies for long-term autonomy of mobile robots" 
+In: Robotics and Autonomous Systems<br>
+<a href="publications/y4/santos_RAS_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/santos_RAS_16.bib">[bib]</a>
+ </li>
+ 
+   <li>
+D. Stutz, A. Hermans and B. Leibe:
+"Superpixels: An Evaluation of the State-of-the-Art" 
+In: Computer Vision and Image Understanding<br>
+<a href="publications/y4/stutz_CVIU.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/stutz_CVIU.bib">[bib]</a>
+ </li>
+ 
+  <li>
+M. Velas, T. Fäulhammer, M. Spanel, M. Zillich and M. Vincze:
+"Improving Multi-view Object Recognition by Detecting Changes in Point Clouds" 
+In: Symposium Series on Computational Intelligence<br>
+<a href="publications/y4/velas_faeulhammer_SSCI_16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/velas_faeulhammer_SSCI_16.bib">[bib]</a>
+ </li>
+ 
+ <li>
+Z. Wang, P. Jensfelt and J. Folkesson:
+"Building a human behavior map from local observations" 
+In: IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN) 2016<br>
+<a href="publications/y4/wangROMAN16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/wangROMAN16.bib">[bib]</a>
+ </li>
+ 
+ <li>
+J. Young, V. Basile, L. Kunze, E. Cabrio and N. Hawes:
+"Towards Lifelong Object Learning by Integrating Situated Robot Perception and Semantic Web Mining" 
+In: 23rd European Conf. on Artificial Intelligence  (ECAI16)<br>
+<a href="publications/y4/young_ecai16.pdf" target="_blank">[pdf]</a> 
+<a href="publications/y4/young_ecai16.bib">[bib]</a>
+ </li>
+ 
+ 
+ 
+ </ul>

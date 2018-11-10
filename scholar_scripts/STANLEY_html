@@ -1,0 +1,629 @@
+<div id="Content">
+
+  <!--<div id="JsMessage">
+  	<em class="msg">Please switch on JavaScript in your browser!</em><br /><br /> If you see this message, JavaScript is not activated in your browser. Please switch it on to see this page properly and help us keeping the maintainance effort low.<br /><br /><em class="msg">Please switch on JavaScript in your browser!</em><br />
+  </div>-->
+
+	<h1>Publications</h1>
+
+	<!-- Ugly local style massacre ... -->
+  <table style="border:0px; background-color:#FFFFFF; width:100%;" cellspacing="20" cellpadding="5" border="0">
+
+	<tbody><tr>
+	  <td>
+  		<h4 style="border-bottom: 1px solid #777777; padding-bottom:5px;">2016</h4>
+	  </td>
+	</tr>
+
+	<tr>
+	  <td>
+		<div class="pub">
+  	        <a href="./papers/rafiBMVC16.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">U. Rafi, J. Gall, B. Leibe</p>
+			<p class="pubtitle">An Efficient Convolutional Network for Human Pose Estimation</p>
+			<p class="pubtext">BMVC, 2016</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <img class="floatleft" src="images/pdf-logo.jpg" border="0">
+		  <p class="pubtext">O. Islas, G. Varni, M. Andries, M. Chetouani, R. Chatila</p>
+		  <p class="pubtitle">Modeling the dynamics of individual behaviors for group detection in crowds using low-level features</p>
+		  <p class="pubtext">IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)  2016, to appear</p>
+		</div>
+	</td>
+  </tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <img class="floatleft" src="images/pdf-logo.jpg" border="0">
+		  <p class="pubtext">O. Islas, H. Khambhaita, R. Chatila, M. Chetouani, R. Alami</p>
+		  <p class="pubtitle">Robots Learning How and Where to Approach People</p>
+		  <p class="pubtext">IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)  2016, to appear</p>
+		</div> 
+	</td>
+  </tr>
+
+	<tr>
+	  <td>
+		<div class="pub">
+  	  <a href="./papers/narr16stream.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">A. Narr and R. Triebel and D. Cremers</p>
+  		<p class="pubtitle">Stream-based Active Learning for Efficient and Adaptive Classification of 3D Objects</p>
+  		<p class="pubtext"> Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2016, to appear.</p>
+		</div>
+	</td>
+  </tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="http://link.springer.com/chapter/10.1007%2F978-3-319-26054-9_8"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">T. Linder and K.O. Arras</p>
+		  <p class="pubtitle">People Detection, Tracking and Visualization using ROS on a Mobile Service Robot</p>
+		  <p class="pubtext">Robot Operating System (ROS): The Complete Reference. Springer Studies in Systems, Decision and Control. 2016</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+  	  <a href="./papers/zhangCVPR2016.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">Lu Zhang and Hayley Hung</p>
+  		<p class="pubtitle"> Beyond F-formations: Determining Social Involvement in Free Standing Conversing Groups from Static Images</p>
+  		<p class="pubtext"> Proc. IEEE conference on computer vision and pattern recognition (CVPR), Las Vegas, 2016, to appear.</p>
+		</div>
+		</td>
+  </tr>
+  <tr>
+	  <td>
+		<div class="pub">
+  		<a href="./papers/breuersWACV16.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">S. Breuers, S. Yang, M. Mathias and B. Leibe</p>
+		  <p class="pubtitle">Exploring Bounding Box Context for Multi-Object Tracker Fusion</p>
+		  <p class="pubtext">IEEE Winter Conference on Applications of Computer Vision (WACV), 2016</p>
+		</div>
+		</td>
+  </tr>
+  <tr>
+	  <td>
+	  <div class="pub">
+      <a href="./papers/palmieriICRA16.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">Palmieri L., Koenig S. and Arras K. O.</p>
+  		<p class="pubtitle">RRT-Based Nonholonomic Motion Planning Using Any-Angle Path Biasing</p>
+  		<p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2016</p>
+		</div>
+		</td>
+  </tr>
+  <tr>
+	  <td>
+		<div class="pub">
+		<a href="./papers/linderICRA16.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a> 
+		<p class="pubtext">Linder T., Breuers, S., Leibe, B. and Arras, K.O</p>
+  		<p class="pubtitle">On Multi-Modal People Tracking from Mobile Platforms in Very Crowded and Dynamic Environments</p>
+  	 	<p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2016</p>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<div class="pub">
+    	<a href="./papers/okalICRA16.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+    	<p class="pubtext">Okal B. and Arras K.O. </p>
+    	<p class="pubtitle">Learning Socially Normative Robot Navigation Behaviors using Bayesian Inverse Reinforcement Learning</p>
+   		<p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2016</p>
+		</div>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+  		<h4 style="border-bottom: 1px solid #777777; padding-bottom:5px;">2015</h4>
+	  </td>
+	</tr>
+	<tr>
+		<td>
+		<div class="pub">
+  		<a href="./papers/beyerBiternions15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">L. Beyer, A. Hermans and B. Leibe</p>
+  		<p class="pubtitle">Biternion Nets: Continuous Head Pose Regression from Discrete Training Labels</p>
+  		<p class="pubtext">Pattern Recognition, 2015 <a href="https://github.com/VisualComputingInstitute/BiternionNets-ROS">[Source code]</a></p>
+		</div>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<div class="pub">
+  		<a href="./papers/joosseICSR15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">M. P. Joosse, M. Lohse and V. Evers</p>
+  		<p class="pubtitle">Crowdsourcing Culture in HRI: Lessons Learned From Quantitative and Qualitative Data Collections</p>
+  		<p class="pubtext">ICSR'15 Workshop on Culture Aware Robotics</p>
+		</div>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+		  <p class="pubtext">O. A. Islas Ramirez, H. Khambhaita,  R. Chatila, M. Chetouani and R. Alami</p>
+		  <p class="pubtitle">Robots Approaching to Interact With People</p>
+		  <p class="pubtext">European Conference on Mobile Robotics (ECMR), Lincoln, UK, Sep 2 - 4, to appear.</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/KucnerECMR2015.pdf"> <img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">T. Piotr Kucner, M. Magnusson and A. J. Lilienthal</p>
+		  <p class="pubtitle">Where am I? An improved prior for NDT-MCL</p>
+		  <p class="pubtext">European Conference on Mobile Robotics (ECMR), Lincoln, UK, Sep 2 - 4.</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/ChadalavadaECMR2015.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">R. Chadalavada, H. Andreasson, R. Krug and A. J. Lilienthal</p>
+		  <p class="pubtitle">That's on my Mind! Robot to Human Intention Communication through on-board Projection on Shared Floor Space</p>
+		  <p class="pubtext">European Conference on Mobile Robotics (ECMR), Lincoln, UK, Sep 2 - 4, to appear.</p>
+		</div>
+	  </td>
+	</tr>
+  <tr>
+	  <td>
+		<div class="pub">
+  	  <a href="./papers/okalRSS15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"> </a>
+		  <p class="pubtext">Okal B., Gilbert Hugo and Arras K.O. </p>
+  		<p class="pubtitle">Efficient Inverse Reinforcement Learning using Adaptive State Graphs</p>
+  		<p class="pubtext">Proc. Learning from Demonstration: Inverse Optimal Control, Reinforcement Learning and Lifelong Learning Workshop at Robotics: Science and Systems (RSS), 2015</p> 
+		</div>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+		  <p class="pubtext">Y. Tao, R. Triebel, D. Cremers</p>
+		  <p class="pubtitle">Semi-supervised Online Learning for Efficient Classification of Objects in 3D Data Streams</p>
+		  <p class="pubtext">IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2015</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/linderIROS15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">T. Linder and K.O. Arras</p>
+		  <p class="pubtitle">Real-Time Full-Body Human Attribute Classification in RGB-D Using A Tessellation Boosting Approach</p>
+		  <p class="pubtext">IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2015</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+  		<a href="./papers/spencer.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">Rudolph Triebel, Kai Arras, Rachid Alami, Lucas Beyer, Stefan Breuers, Raja Chatila, Mohamed Chetouani, Daniel Cremers, Vanessa Evers, Michelangelo Fiore, Hayley Hung, Omar A. Islas Ramírez, Michiel Joosse, Harmish Khambhaita, Tomasz Kucner, Bastian Leibe, Achim J. Lilienthal, Timm Linder, Manja Lohse, Martin Magnusson, Billy Okal, Luigi Palmieri, Umer Rafi, Marieke van Rooij, and Lu Zhang</p>
+  		<p class="pubtitle">SPENCER: A Socially Aware Service Robot for Passenger Guidance and Help in Busy Airports</p>
+  		<p class="pubtext">Field and Service Robotics (FSR), 2015</p>
+		</div>
+		</td>
+    </tr>
+
+	<tr>
+		<td>
+		<div class="pub">
+  		<a href="./papers/rafichalearn15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  		<p class="pubtext">Umer Rafi, Juergen Gall, Bastian Leibe</p>
+  		<p class="pubtitle">A Semantic Occlusion Model for Human Pose Estimation from a Single Depth Image</p>
+  		<p class="pubtext">ChaLearn Looking at People Challenge, 2015</p>
+		</div>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/vroonROMAN2015.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">Jered Vroon, Michiel Joosse, Manja Lohse, Jan Kolkmeier, Jaebok Kim, Khiet Truong, Gwenn Englebienne, Dirk Heylen and Vanessa Evers</p>
+		  <p class="pubtitle">Dynamics of Social Positioning Patterns in Group-Robot Interactions: An Inductive Method</p>
+		  <p class="pubtext">RO-MAN 2015</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+      <a href="./papers/joosseCTIT15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Michiel Joosse, Manja Lohse, Vanessa Evers</p>
+      <p class="pubtitle">How a Guide Robot Should Behave at an Airport - Insights Based on Observing Passengers</p>
+      <p class="pubtext">CTIT Technical Report TR-CTIT-15-01, University of Twente, the Netherlands, 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+      <a href="./papers/joosseNFHRI15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Michiel Joosse, Robin Knuppe, Geert Pingen, Rutger Varkevisser, Josip Vukoja, Manja Lohse, Vanessa Evers</p>
+      <p class="pubtitle">Robots Guiding Small Groups: The Effect of Appearance Change on the User Experience</p>
+      <p class="pubtext">Proceedings of the 4th International Symposium on New Frontiers in Human-Robot Interaction (NFHRI), Canterbury, U.K., 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+      <a href="http://www.mmp.rwth-aachen.de/publications/pdf/diesel-icra15-final-submitted.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">D. Mitzel, J. Diesel, A. Osep, U. Rafi, B. Leibe</p>
+      <p class="pubtitle">A Fixed-Dimensional Representation for Matching Partial 3D Shapes in Street Scenes</p>
+      <p class="pubtext">International Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+      <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+      <p class="pubtext">R. Mosberger, B. Leibe, H. Andreasson and A. J. Lilienthal</p>
+      <p class="pubtitle">Multi-band Hough Forests for Detecting Humans with Reflective Safety Clothing from Mobile Machinery</p>
+      <p class="pubtext">International Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/MagnussonICRA2015.pdf">  <img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Martin Magnusson, Narunas Vaskevicius, Todor Stoyanov, Kaustubh Pathak, and Andreas Birk</p>
+      <p class="pubtitle">Beyond Points: Evaluating Recent 3D Scan-Matching Algorithms</p>
+      <p class="pubtext">International Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/mundICRA15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">D. Mund, R. Triebel, D. Cremers</p>
+      <p class="pubtitle">Active Online Confidence Boosting for Efficient Object Classification</p>
+      <p class="pubtext">International Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+	  <a href="./papers/palmieriICRA15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Palmieri L., Arras K. O.</p>
+      <p class="pubtitle">Distance Metric Learning for RRT-Based Motion Planning with Constant-Time Inference</p>
+      <p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+	  <a href="./papers/linderICRA15.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Linder T., Wehner S. Arras K. O.</p>
+      <p class="pubtitle">Real-Time Full-Body Human Gender Recognition in (RGB)-D Data</p>
+      <p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2015</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+  		  <a href="./papers/hrivd113-de-silvaA.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">L. de Silva, R. Yan, F. Ingrand, R. Alami, S. Bensalem</p>
+		  <p class="pubtitle">A Verifiable and Correct-by-Construction Controller for Robots in Human Environments</p>
+		  <p class="pubtext">ACM/IEEE International Conference on Human-Robot Interaction (HRI), Portland, USA, Mar 2 - 5, 2015</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+		  <p class="pubtext">M. Fiore, H. Khambhaita, G. Milliez R. Alami</p>
+		  <p class="pubtitle">An Adaptive and Proactive Human-Aware Robot Guide</p>
+		  <p class="pubtext">ICSR-15, Miami, USA, Jan 4 - 6, 2015</p>
+		</div>
+	  </td>
+	</tr>
+
+	<tr>
+	  <td>
+  		<h4 style="border-bottom: 1px solid #777777; padding-bottom:5px;">2014</h4>
+	  </td>
+	</tr>
+	
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/palmieriIROSWS14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Palmieri L., Arras K. O.</p>
+      <p class="pubtitle">Distance Metric Learning for RRT-Based Motion Planning for Wheeled Mobile Robots</p>
+      <p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS): Workshop on Machine Learning in Planning and Control of Robot Motion, 2014</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/okalIROSWS14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Okal B., Arras K. O.</p>
+      <p class="pubtitle">Towards Group-Level Social Activity Recognition for Mobile Robots</p>
+      <p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS): Workshop on Assistance and Service Robotics in a Human Environment, 2014</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/windheuserBMVC14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">T. Windheuser, M. Vestner, E. Rodola, R. Triebel, D. Cremers</p>
+      <p class="pubtitle">Optimal Intrinsic Descriptors for Non-Rigid Shape Analysis</p>
+      <p class="pubtext">British Machine Vision Conference (BMVC), 2014</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/triebelGCPR14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">R. Triebel, J. Stühmer, M. Souiai, D. Cremers</p>
+      <p class="pubtitle">Active Online Learning for Interactive Segmentation Using Sparse Gaussian Processes</p>
+      <p class="pubtext">German Conference on Pattern Recognition (GCPR), 2014</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+    <div class="pub">
+		  <a href="./papers/debnathKI14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+      <p class="pubtext">Shoubhik Debnath, Shiv Sankar Baishya, Rudolph Triebel, Varun Dutt, Daniel Cremers</p>
+      <p class="pubtitle">Environment-adaptive Learning: How Clustering Helps to Obtain Good Training Data</p>
+      <p class="pubtext">Advances in Artificial Intelligence (KI), 2014</p>
+    </div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/hungICMI2014.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">Hayley Hung, Gwenn Englebienne, and Laura Cabrera Quiros</p>
+		  <p class="pubtitle">Detecting Conversing Groups with a Single Worn Accelerometer</p>
+		  <p class="pubtext">ACM International Conference on Multimodal Interaction (ICMI), 2014.</p>
+		</div>	  
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/joosseCABS2014.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+		  <p class="pubtext">Michiel Joosse, Ronald Poppe, Manja Lohse, Vanessa Evers</p>
+		  <p class="pubtitle">Cultural Differences in how an Engagement-Seeking Robot should Approach a Group of People</p>
+		  <p class="pubtext">Proceedings of the 5th ACM International Conference on Collaboration Across Boundaries: Culture, Distance &amp; Technology (CABS), Kyoto, 2014.</p>
+		</div>	
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<div class="pub">
+		  <a href="./papers/vasconACCV2014.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+		  <p class="pubtext">Sebastiano Vascon, Eyasu Zemene Mequanint, Marco Cristani, Hayley Hung, Marcello Pelillo and Vittorio Murino</p>
+		  <p class="pubtitle">A Game-Theoretic Probabilistic Approach for Detecting Conversational Groups</p>
+		  <p class="pubtext">Asian Conference on Computer Vision (ACCV), 2014.</p>
+		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+  		<div class="pub">
+				<a href="./papers/vasquezIROS14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  			<p class="pubtext">Vasquez D., Okal B., Arras K.O.</p>
+  			<p class="pubtitle">Inverse Reinforcement Learning Algorithms and Features for Robot Navigation in Crowds: An Experimental Comparison</p>
+  			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2014, pp. 1341 - 1346.</p>
+  		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+  		<div class="pub">
+			  <a href="./papers/palmieriIROS14.pdf"> <img class="floatleft" src="images/pdf-logo.jpg" border="0"> </a>
+  			<p class="pubtext">Palmieri L., Arras K.O.</p>
+  			<p class="pubtitle">POSQ: A Novel RRT Extend Function for Efficient and Smooth Mobile Robot Motion Planning</p>
+  			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2014.</p>
+  		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+  		<div class="pub">
+				<img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+  			<p class="pubtext">Linder T., Arras K.O.</p>
+  			<p class="pubtitle">Multi-Model Hypothesis Tracking of Groups of People in RGB-D Data</p>
+  			<p class="pubtext">Proc. IEEE Int. Conference on Information Fusion (FUSION), 2014, pp. 1 - 7.</p>
+  		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+  		<div class="pub">
+				 <a href="./papers/palmieriICAPS14.pdf"> <img class="floatleft" src="images/pdf-logo.jpg" border="0"> </a>
+  			<p class="pubtext">Palmieri L., Arras K.O.</p>
+  			<p class="pubtitle">Efficient and Smooth RRT Motion Planning Using a Novel Extend Function for Wheeled Mobile Robots</p>
+  			<p class="pubtext">International Conference on Automated Planning and Scheduling (ICAPS): Workshop on Planning and Robotics, 2014.</p>
+  		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+	    <div class="pub"> 
+		  <a href="http://www.vision.rwth-aachen.de/publications/pdf/jafari-realtimergbdtracking-icra14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+			<p class="pubtext">O. Hosseini Jafari, D. Mitzel, B. Leibe</p>
+			<p class="pubtitle">Real-Time RGB-D based People Detection and Tracking for Mobile Robots and Head-Worn Cameras</p>			
+			<p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2014.
+			  <a href="http://www.vision.rwth-aachen.de/publications/videos/ICRA14_1452_VI_i.mp4">[MP4]</a>
+			</p>
+		</div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub"> 
+		  <a href="http://www.iri.upc.edu/files/scidoc/1499-Localization-in-highly-dynamic-environments-using-dual-timescale-NDT-MCL.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>	  
+			<p class="pubtext">Rafael Valencia, Jari Saarinen, Henrik Andreasson, Joan Vallvé, Juan Andrade-Cetto and Achim Lilienthal</p>
+			<p class="pubtitle">Localization in highly dynamic environments using dual-timescale NDT-MCL</p>
+			<p class="pubtext">Proc. IEEE Int. Conference on Robotics and Automation (ICRA), 2014, pp. 3956 - 3962.</p>
+		</div></td>		
+	</tr>
+ 	<tr>
+	  <td><div class="pub">
+        <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+        <p class="pubtext">Manja Lohse, Reinier Rothuis, Daphne Karreman, Vanessa Evers</p>
+        <p class="pubtitle">Robot Gestures Make Difficult Tasks Easier: the Impact of Gestures on Perceived Workload and Task Performance</p>
+        <p class="pubtext">ACM CHI Conference on Human Factors in Computing Systems, Toronto, Canada 2014, pp. 1459-1466</p>
+    </div></td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/joosseHRI2014b.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Michiel Joosse, Manja Lohse, Vanessa Evers</p>
+      <p class="pubtitle">Sound over Matter: The Effects of Functional Noise, Robot Size and Approach Velocity in Human-Robot Encounters</p>
+      <p class="pubtext">ACM/IEEE International Conference on Human-Robot Interaction (HRI), Bielefeld, 2014, pp. 184 - 185.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/kruseHRI14.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Thibault Kruse, Harmish Khambhaita, Rachid Alami, Alexandra Kirsch</p>
+      <p class="pubtitle">Evaluating Directional Cost Models in Navigation</p>
+      <p class="pubtext">ACM/IEEE International Conference on Human-Robot Interaction (HRI), Bielefeld, 2014.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/joosseHRI2014a.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Michiel Joosse, Manja Lohse, Vanessa Evers</p>
+      <p class="pubtitle">Lost in Proxemics: Spatial Behavior for Cross-Cultural HRI</p>
+      <p class="pubtext">ACM/IEEE International Conference on Human-Robot Interaction (HRI) Workshop on Culture Aware Robotics, Bielefeld, 2014.</p>
+    </div></td>		
+	</tr>
+ 	<tr>
+	  <td><div class="pub">
+        <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+        <p class="pubtext">Michelangelo Fiore, Sandra Devin, Grégoire Milliez, Raphaël Lallement, Aurélie Clodic and Rachid Alami</p>
+        <p class="pubtitle">An architecture for human-robot collaborative tasks</p>
+        <p class="pubtext">Journées Nationales de la Robotique Interactive, Toulouse, November 2014</p>
+    </div></td>
+	</tr>
+ 	<tr>
+	  <td><div class="pub">
+        <img class="floatleft" src="images/pdf-logo_bw.jpg" border="0">
+        <p class="pubtext">Severin Lemaignan, Rachid Alami</p>
+        <p class="pubtitle">A Few AI Challenges Raised while Developing an Architecture for Human-Robot Cooperative Task Achievement</p>
+        <p class="pubtext">Artificial Intelligence and Human-Robot Interaction, AAAI Fall Symposium 2014, Arlington, Nov 13-15, 2014, USA</p>
+    </div></td>
+	</tr>
+
+	<tr>
+	  <td>
+  		<h4 style="border-bottom: 1px solid #777777; padding-bottom:5px;">2013</h4>
+	  </td>
+	</tr>
+  		
+	<tr>
+	  <td><div class="pub">
+		  	<a href="http://ijr.sagepub.com/content/32/14/1627.full.pdf+html"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Saarinen J., Andreasson H., Stoyanov T., Lilienthal A. J.</p>
+			<p class="pubtitle">3D Normal Distributions Transform Occupancy Maps: An Efficient Representation for Mapping in Dynamic Environments</p>
+			<p class="pubtext">International Journal of Robotics Research (IJRR), 2013, pp. 1627 - 1644.</p>
+		</div></td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+		  	<a href="http://aass.oru.se/Research/mro/publications/2013/Stoyanov_etal_2013-IROS-NDTOM_Fusion_Simultaneous_Mapping_and_Tracking_in_Large_Scale_Dynamic_Environments.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Stoyanov T., Saarinen J., Andreasson H., Lilienthal A. J.</p>
+			<p class="pubtitle">Normal Distributions Transform Occupancy Map Fusion: Simultaneous Mapping and Tracking in Large Scale Dynamic Environments</p>
+			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2013, pp. 4702 - 4708.</p>
+		</div></td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+		  	<a href="http://aass.oru.se/Research/mro/publications/2013/Saarinen_etal_2013-IROS-Fast_3D_Mapping_in_Highly_Dynamic_Environments_using_NDT_OM.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Saarinen J., Stoyanov T., Andreasson H., Lilienthal A. J.</p>
+			<p class="pubtitle">Fast 3D Mapping in Highly Dynamic Environments using Normal Distributions Transform Occupancy Maps</p>
+			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2013, pp. 4694 - 4701.</p>
+		</div></td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/lohseIROS13.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Manja Lohse, Niels van Berkel, Betsy van Dijk, Michiel Joosse, Daphne Karreman, Vanessa Evers</p>
+      <p class="pubtitle">The Influence of Approach Speed and Functional Noise on Users Perception of a Robot</p>
+      <p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2013, pp. 1670 - 1675.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+		  	<a href="http://aass.oru.se/Research/mro/publications/2013/Kucner_etal_2013-IROS-Conditional_Transition_Maps_Learning_Motion_Patterns_in_Dynamic_Environments.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Kucner T., Saarinen J., Martinsson M., Lilienthal A. J.</p>
+			<p class="pubtitle">Conditional Transition Maps: Learning Motion Patterns in Dynamic Environments</p>
+			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2013, pp. 1196 - 1201.</p>
+		</div></td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+		  	<a href="http://aass.oru.se/Research/mro/publications/2013/Saarinen_etal_2013-IROS-NDT_MCL.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Saarinen J., Andreasson H., Stoyanov T., Lilienthal A. J.</p>
+			<p class="pubtitle">Normal Distributions Transform Monte-Carlo Localization (NDT-MCL)</p>
+			<p class="pubtext">Proc. IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS), 2013, pp. 382 - 389.</p>
+		</div></td>
+	</tr>
+	<tr>
+	  <td>
+  		<div class="pub">
+			<a href="http://roboticsproceedings.org/rss09/p01.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+  			<p class="pubtext">Luber M., Arras K.O.</p>
+  			<p class="pubtitle">Multi-Hypothesis Social Grouping and Tracking for Mobile Robots</p>
+  			<p class="pubtext">Robotics: Science and Systems (RSS), Berlin, Germany, 2013<br><span style="color:#880000;">Best Student Paper Award Finalist</span></p>
+  		</div>
+	  </td>
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/hungUBICOMP2013.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Hayley Hung, Gwenn Englebienne and Jeroen Kools</p>
+      <p class="pubtitle">Classifying Social Actions with a Single Accelerometer</p>
+      <p class="pubtext">Proc. of ACM Conference on Pervasive and Ubiquitous Computing Adjunct Publication (UbiComp), 2013, pp. 207 - 210.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/hungUBICOMP2013_2.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+			<p class="pubtext">Hayley Hung and Gwenn Englebienne</p>
+      <p class="pubtitle">Systematic Evaluation of Social Behaviour Modelling with a Single Accelerometer</p>
+      <p class="pubtext">Proc. of ACM Conference on Pervasive and Ubiquitous Computing Adjunct Publication (UbiComp), 2013, pp. 127 - 130.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+      <a href="./papers/joosseICSR13.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+      <p class="pubtext">Michiel Joosse, Manja Lohse, Vanessa Evers</p>
+      <p class="pubtitle">Short Duration Robot Interaction at an Airport: Challenges from a Socio-Psychological Point of View</p>
+      <p class="pubtext">International Conference on Social Robotics (ICSR) Workshop on Robots in Public Spaces: Towards Multi-Party, Short-Term, Dynamic Human-Robot Interaction, Bristol, 2013.</p>
+    </div></td>		
+	</tr>
+	<tr>
+	  <td><div class="pub">
+			<a href="./papers/SettiWIA2MIS13.pdf"><img class="floatleft" src="images/pdf-logo.jpg" border="0"></a>
+        	<p class="pubtext">F. Setti, H. Hung, and M. Cristani</p>
+        	<p class="pubtitle">Group Detection in Still Images by F-formation Modeling: A Comparative Study</p>
+        	<p class="pubtext">14th International Workshop on Image Analysis for Multimedia Interactive Services (WIAMIS), 2013.</p>
+  		</div>
+	  </td>
+	</tr>
+  </tbody></table>
+
+  </div>
