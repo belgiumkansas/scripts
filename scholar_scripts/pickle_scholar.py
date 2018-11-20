@@ -2,36 +2,60 @@
 
 import scholarly
 import pickle
+import sys
 
-NUM_CHECK = 5
+#hard number of top results to check only check top
+NUM_CHECK = 1
 
 class pickle_scholar():
 
-	def __init__(self, pickle_file):
-		'''open and load pickle'''
-		self.pickle_file = pickle_file
-		f = open(pickle_file, "rb")
-		try:
-			self.scholar_dict = pickle.load(f)
-		except Exception as e:
-			print e
-			self.scholar_dict = {}
-		pass
-
-	def add_entry(self, title_authors):
-		''' title and list of authors'''
-		title = title_authors[0]
-		authors = title_authors[1].split(',')
+	def __init__(self, pkl_f_name):
+		"""open pickle file and put in local variable
+		"""
+		self.pkl_f_name = pkl_f_name
 		
+		try:
+			f = open(pkl_f_name, "r+")
+			self.scholar_dict = pickle.load(f)
+		except EOFError:
+			self.scholar_dict = {}
+			print "pickle has no dictionary, one created"
+		except:
+			print "Unexpected error:", sys.exc_info()[0]
+			sys.exit()
+		#close after loading pickle
+		f.close()
+
+
+	def add_entry(self, title, authors):
+		""" using title and author check and add to the pickle 
+		file some rudimentary filtering heuristics included
+		"""		
 		if self._check_entry(title):
 			print("{} is already in the dictionary".format(title))
 			return 0
 
-		if self._in_scholarly(title, authors):
-			print("{} has not scholarly match".format(title))
+		#candidate publication null if fail
+		pub = self._check_scholarly(title, authors)
+
+		if not pub:
+			print("{} has no scholarly match".format(title))
 			return 0
 
-		print("{} was added".format(title))
+		#add to pickle
+		try:
+			publication = {"publication_object": pub}
+			publication["read"] = False
+
+			self.scholar_dict[title] = publication
+			f = open(self.pkl_f_name, "w")
+			pickle.dump(self.scholar_dict, f)
+			f.close()
+			print("added: {}".format(title))
+
+		except Exception as e:
+			print "something went wrong: {}".format(e)
+			print "for title: {}".format(title)
 
 
 
@@ -43,36 +67,27 @@ class pickle_scholar():
 		else:
 			return 0
 
-	def _in_scholarly(self, title, authors):
-		'''do a check on sholarly for  title'''
+	def _check_scholarly(self, title, authors_list):
+		"""do a check on sholarly for  title
+		currently only check first entry
+		"""
 		#TODO check if you can find query list length
-		i = 0
+
 		search_query = scholarly.search_pubs_query(title)
 		try:
 			result = next(search_query)
-			i += 1
-			print(i)
+			if self._author_check(result, authors_list):
+				return result
+			else:
+				return None
 
 		except Exception as e:
-			print(" no results, exception: {}".format(e))
-		
-		while(i < NUM_CHECK):
-			if self._author_check(result, authors):
-				print result
-			try:
-				result = next(search_query)
-				i += 1
-				print(i)
-			except Exception as e:
-				print("exception after {} results: {}".format(i, e))
-				return 0
-		pass
-
+			print("no results, exception: {}".format(e))
 
 
 	def _author_check(self, publication, authors):
 		''' check publication for authors '''
-		return 0
+		return 1
 
 
 
@@ -85,7 +100,16 @@ def main():
 	print("total entires: {0}".format(len(title_auth_list)))
 
 	PS = pickle_scholar("scholar_dict.pkl")
-	PS.add_entry(title_auth_list[1])
+	
+	break_point = 5
+	for title_auth in title_auth_list:
+		PS.add_entry(title_auth[0], title_auth[1])
+
+		if break_point <= 0:
+			break
+		#break_point -= 1
+
+
 
 
 
