@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 #git user setup
 git config --global user.email "jeve0658@colorado.edu"
 git config --global user.user "Jeff Venicx"
@@ -7,6 +9,8 @@ git config --global credential.helper 'cache --timeout=900'
 sudo apt -qq -y install vim
 sudo apt -qq -y install terminator
 sudo apt -qq -y install synaptic
+sudo apt -qq -y install curl
+
 
 #sublime install
 wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
@@ -19,7 +23,7 @@ sudo apt-get install sublime-text
 xdg-open https://slack.com/downloads/instructions/debian
 
 #setup configs
-sudo apt install compizconfig-settings-manager
+sudo apt -y install compizconfig-settings-manager
 
 #important extras
 sudo apt -qq -y install cmake
@@ -27,3 +31,4 @@ sudo apt -qq -y install python-pip
 
 #internet addons
 sudo apt -qq -y install nmap
+

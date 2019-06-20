@@ -3,17 +3,16 @@
 #remove old possible packages
 sudo apt-get remove docker docker-engine docker.io
 
-#add dockers key
-curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+#use docker script
+curl -sSL https://get.docker.com/ | sh
 
+sudo usermod -aG docker jeff
 
-#install stable repo
-sudo add-apt-repository \
-   "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
-   $(lsb_release -cs) \
-   stable"
+#docker machine
+base=https://github.com/docker/machine/releases/download/v0.16.0 &&
+    curl -L $base/docker-machine-$(uname -s)-$(uname -m) >/tmp/docker-machine &&
+    sudo install /tmp/docker-machine /usr/local/bin/docker-machine
 
-
-sudo apt-get update
-sudo apt-get install docker-ce
-
+#docker compose
+sudo curl -L "https://github.com/docker/compose/releases/download/1.24.0/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+sudo chmod +x /usr/local/bin/docker-compose
