@@ -9,18 +9,18 @@ sudo apt-get install libturbojpeg libjpeg-turbo8-dev
 sudo apt-get install libglfw3-dev
 sudo apt-get install beignet-dev
 sudo apt-get install libopenni2-dev
-sudo apt install ros-kinetic-costmap-2d 
+sudo apt install ros-melodic-costmap-2d 
 cd mkdir build && cd build
 cmake .. -DCMAKE_INSTALL_PREFIX=$HOME/freenect2
 make
 make install
 
 #movo_ws essentials for build
-sudo apt install ros-kinetic-control-toolbox 
-sudo apt install ros-kinetic-base-local-planner 
-sudo apt install ros-kinetic-move-base-msgs 
-sudo apt install ros-kinetic-controller-interface 
-sudo apt install ros-kinetic-controller-manager
+sudo apt install ros-melodic-control-toolbox 
+sudo apt install ros-melodic-base-local-planner 
+sudo apt install ros-melodic-move-base-msgs 
+sudo apt install ros-melodic-controller-interface 
+sudo apt install ros-melodic-controller-manager
 
 #movo_sim essentials
-sudo apt install ros-kinetic-ros-control ros-kinetic-ros-controllers ros-kinetic-yocs-cmd-vel-mux ros-kinetic-move-base ros-kinetic-global-planner ros-kinetic-rviz-imu-plugin
+sudo apt install ros-melodic-ros-control ros-melodic-ros-controllers ros-melodic-yocs-cmd-vel-mux ros-melodic-move-base ros-melodic-global-planner ros-melodic-rviz-imu-plugin
